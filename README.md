@@ -33,7 +33,7 @@
 使用以下 VLESS 链接模板导入您的客户端：
 ```text
 vless://您的UUID@您的域名:443?encryption=none&security=tls&type=ws&host=您的域名&path=%2fchat&sni=您的域名#NLBW_AWS_Free
-
+```
 ## 🛡️ 稳定性保障 (保活机制)
 ### 由于 Back4App 免费层级存在 60 分钟休眠机制，建议配合以下方案实现 24/7 在线：
 
